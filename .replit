@@ -1,6 +1,10 @@
 language = "html"
 <<<<<<< HEAD
+<<<<<<< HEAD
 run = "run"
+=======
+run = "Run"
+>>>>>>> origin/main
 =======
 run = "Run"
 >>>>>>> origin/main
